@@ -1,0 +1,25 @@
+// 创建数据库
+create database qhcps_database;
+
+// 表格数据表
+create table deal(
+    id varchar(20) primary key,
+    username varchar(20),
+    latest_equity int(20),
+    avg_equity int(20),
+    cumulative_net_profit int(20),
+    annual_net_profit_margin double(30,2),
+    accumulated_handling_fees int(20),
+    annual_handling_fee double(30,2),
+    cumulative_net_worth double(30,2),
+    maximum_retracement_rate double(30,2),
+    stars int(1)
+);
+
+// 详细数据表
+create table deal_detail(
+    id varchar(20),
+    dtime date,
+    cumulative_net_profit double(30,3),
+    accumulated_handling_fees double(30,2)
+);

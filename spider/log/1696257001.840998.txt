@@ -1,0 +1,74 @@
+总计待爬取:2832个
+[2023-10-02 22:30:04][0]id->88939,username->飞雨
+[2023-10-02 22:30:10][1]id->90953,username->民民
+[2023-10-02 22:30:14][2]id->91350,username->友元
+[2023-10-02 22:30:16][3]id->91271,username->新新新涛
+[2023-10-02 22:30:18][4]id->3294,username->期蛭
+[2023-10-02 22:30:21][5]id->91324,username->稳如老狗
+[2023-10-02 22:30:23][6]id->91340,username->格林葫芦
+[2023-10-02 22:30:26][7]id->91349,username->友友
+[2023-10-02 22:30:29][8]id->89256,username->清心淡雅
+[2023-10-02 22:30:31][9]id->90582,username->光明
+[2023-10-02 22:30:32][10]id->91193,username->老老浆糊
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-09',-200892.08,1122.08)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-12',-120454.98,1934.98)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-13',-93991.72,2191.72)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-14',-58533.68,2473.68)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-15',-40253.6,2653.6)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-16',-35187.18,2897.18)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-19',46661.54,3338.46)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-20',24200.9,3809.1)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-21',129638.54,3921.46)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-22',71028.64,4201.36)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-23',45062.68,4587.32)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-26',45451.5,4798.5)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-27',73693.52,4926.48)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-28',119018.66,5081.34)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-29',51507.16,5612.84)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-10-30',111649.74,5930.26)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-02',70557.66,6512.34)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-03',54688.44,7091.56)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-04',145256.64,7173.36)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-05',159473.12,7396.88)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-06',162903.8,7826.2)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-09',234211.28,8258.72)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-10',187870.5,8519.5)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-11',221859.3,8600.7)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-12',208915.16,8794.84)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-13',228997.36,9142.64)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-16',358287.78,9242.22)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-17',379941.62,9468.38)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-18',411128.98,9631.02)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-19',475042.6,9847.4)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-20',529962.32,10087.68)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-23',578763.2,10266.8)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-24',529785.9,10604.1)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-25',590671.94,10758.06)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-26',593807.86,11192.14)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-27',584957.9,11492.1)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-11-30',689106,11644)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-01',646289.08,12180.92)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-02',697120.4,12609.6)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-03',683281.52,13068.48)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-04',580964.7,13675.3)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-07',745588.98,14291.02)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-08',692173.64,14716.36)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-09',716129.4,15000.6)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-10',842839.62,15430.38)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-11',954859.9,15940.1)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-14',943944.48,16425.52)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-15',919059.74,16620.26)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-16',961800.02,16859.98)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-17',988609.26,17170.74)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-18',1138187.26,17452.74)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-21',1310697.28,17762.72)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-22',1280773.04,17996.96)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-23',1047101.16,18498.84)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-24',1121629.54,18680.46)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-25',1136810.72,18919.28)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-28',1267630.68,18959.32)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-29',1116288.82,19121.18)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-30',1092134,19216)
+插入详细数据时发生错误! sql -> insert into deal_detail values('91193','2020-12-31',1144371.04,19628.96)
+[2023-10-02 22:30:35][11]id->91128,username->而已
+[2023-10-02 22:30:38][12]id->91329,username->涛涛涛
